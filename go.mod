@@ -1,3 +1,3 @@
-module github.com/t-hg/html-encode
+module github.com/tobiashort/html-encode
 
 go 1.19
